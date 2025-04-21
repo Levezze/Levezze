@@ -3,6 +3,21 @@
 🎯 Full Stack Engineer | 🏙️ Ex-Tech Lead, Urban Design AI Start-up  
 📍 Based in NYC | 🤝 Open to work | 🌐 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Levezze/Levezze/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Levezze/Levezze/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Levezze/Levezze/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---
 
 ## About Me
@@ -40,22 +55,21 @@ I work across the full stack — from database schema design to frontend framewo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
 
----
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Levezze/Levezze/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=levezze&layout=compact&hide=css&langs_count=6&theme=github_dark" 
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Levezze/Levezze/output/github-contribution-grid-snake.svg"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=levezze&layout=compact&hide=css&langs_count=6&theme=github_light"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Levezze/Levezze/output/github-contribution-grid-snake.svg"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=levezze&layout=compact&hide=css&langs_count=6&theme=github_light"
   />
 </picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levezze&layout=compact&hide=css&langs_count=6&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levezze&show_icons=true&hide_rank=true&hide=contribs&count_private=true&theme=default)
+---
+
+
