@@ -1,6 +1,6 @@
 # Lev Zhitnik
 
-🎯 Full Stack Engineer | 🏙️ Ex-Tech Lead, Urban Design AI Start-up  
+💻 Full Stack Engineer | 🏙️ Ex-Tech Lead, Urban Design AI Start-up  
 📍 Based in NYC | 🤝 Open to work | 🌐 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/)
 
 <picture>
@@ -20,39 +20,43 @@
 
 ---
 
-## About Me
+## ⭐ About Me
 
-I'm a Full Stack Developer with a background in architecture and computational design, driven by a deep interest in systems thinking and automation. I bring cross-disciplinary experience from urban design, AI-driven tools, and product development.
+Hi! I'm Lev, I'm a developer with a background in architecture and computational design. While working as the tech lead at an AI-driven urban design startup, I found myself drawn more and more to the technical side of things — building tools, writing code, solving problems. That experience is what led me to shift my focus and pursue software engineering full-time.
 
-Previously, I led technical efforts at a startup focused on AI for urban design. My work combines engineering precision with design sensibility, enabling me to build scalable backend systems, expressive frontend interfaces, and thoughtful developer workflows.
+Since then, I’ve been learning constantly and building across the stack — from frontend interfaces to backend APIs, databases, and automation workflows. I enjoy working on projects that combine structure with creativity, especially when there's an opportunity to make systems more efficient or expressive.
 
-- 🎓 **B.Arch** + Professional Certificate in Urban Planning  
-- 🎓 **MIT Professional Education** – Applied Data Science: *Leveraging AI for Effective Decision-Making*  
-- 🧠 **Codecademy** – Full Stack Career Path graduate  
+I'm always eager to learn, grow as a developer and professional, and stay inspired by working alongside others who are passionate about what they do.
+
+- 🏛️ **B.Arch, Technion** - Architecture and Town Planning
+- 🤖 **MIT Professional Education** – Applied Data Science: *Leveraging AI for Effective Decision-Making*  
+- 🌐 **Codecademy** – Full Stack Career Path graduate  
 
 ---
 
 ## Tech Stack
 
-I work across the full stack — from database schema design to frontend frameworks and deployment workflows.
+I work end-to-end across the stack — from front-end interfaces to backend APIs and data pipelines. Here's what I reach for most often:
 
-<h3>🛠️ &nbsp;Languages & Frameworks</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SCSS"/>
-</p>
+### ⭐ Languages & Frameworks  
+- **TypeScript & Node.js** – My go-to for building robust APIs, backends, and full-stack apps  
+- **React** – For expressive and fast user interfaces  
+- **Python** – For automation, AI pipelines, and computational logic (including RhinoCommon integrations in urban design)  
+- **SQL/PostgreSQL** – For structured data modeling and performance-tuned queries  
 
-<h3>🧰 &nbsp;Tools & Platforms</h3>
+### ⭐ Tools & Platforms  
+- **Vite, Express, Swagger** – For fast, typed, and well-documented APIs  
+- **Supabase, pgAdmin** – PostgreSQL-first backend stacks  
+- **VSCode, Git, Bash** – Daily workflow stack  
+- **LangChain, OpenAI, TTS APIs** – For building intelligent, automated content pipelines  
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
 </p>
 
 <picture>
