@@ -47,7 +47,7 @@ I work end-to-end across the stack — from front-end interfaces to backend APIs
 ### ⭐ Tools & Platforms  
 - **Vite, Express, Swagger** – For fast, typed, and well-documented APIs  
 - **Supabase, pgAdmin** – PostgreSQL-first backend stacks  
-- **VSCode, Git, Bash** – Daily workflow stack  
+- **VSCode, Git, Ubuntu, Bash** – Daily workflow stack  
 - **LangChain, OpenAI, TTS APIs** – For building intelligent, automated content pipelines  
 
 <p align="left">
@@ -55,8 +55,9 @@ I work end-to-end across the stack — from front-end interfaces to backend APIs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30" alt="SaSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>  
 </p>
 
 <picture>
