@@ -1,6 +1,6 @@
 # Lev Zhitnik
 
-💻 Full Stack Engineer | 🏙️ Ex-Tech Lead, Urban Design AI Start-up  
+Builder | Founder | Full Stack Engineer | Ex-Tech Lead, Urban Design AI Start-up  
 📍 Based in NYC | 🤝 Open to work | 🌐 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/)
 
 <picture>
