@@ -1,7 +1,7 @@
 # Lev Zhitnik
 
-Builder | Founder | Full Stack Engineer | Ex-Tech Lead, Urban Design AI Start-up  
-📍 Based in NYC | 🤝 Open to work | 🌐 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/)
+Full Stack & AI Engineer | Builder’s Mentality | Ex-Tech Lead @ Urban Design AI Startup
+📍 NYC | 🤝 Open to Work | 🌐 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/)
 
 <picture>
   <source
@@ -22,11 +22,9 @@ Builder | Founder | Full Stack Engineer | Ex-Tech Lead, Urban Design AI Start-up
 
 ## ⭐ About Me
 
-Hi! I'm Lev, I'm a developer with a background in architecture and computational design. While working as the tech lead at an AI-driven urban design startup, I found myself drawn more and more to the technical side of things — building tools, writing code, solving problems. That experience is what led me to shift my focus and pursue software engineering full-time.
+Hi, I’m Lev — I build AI-integrated platforms, full-stack systems, and automation workflows that go beyond prototypes and hold up in production. With a foundation in architecture and a shift into engineering, I approach systems as both a designer and a developer.
 
-Since then, I’ve been learning constantly and building across the stack — from frontend interfaces to backend APIs, databases, and automation workflows. I enjoy working on projects that combine structure with creativity, especially when there's an opportunity to make systems more efficient or expressive.
-
-I'm always eager to learn, grow as a developer and professional, and stay inspired by working alongside others who are passionate about what they do.
+I’ve led urban-scale GenAI platforms, developed Python pipelines for media generation, and created interactive tools that transform how people work with technical content. I value clarity, speed, and precision — and enjoy collaborating with people who care about shipping things that matter.
 
 - 🏛️ **B.Arch, Technion** - Architecture and Town Planning
 - 🤖 **MIT Professional Education** – Applied Data Science: *Leveraging AI for Effective Decision-Making*  
@@ -36,20 +34,22 @@ I'm always eager to learn, grow as a developer and professional, and stay inspir
 
 ## Tech Stack
 
-I work end-to-end across the stack — from front-end interfaces to backend APIs and data pipelines. Here's what I reach for most often:
+Systems-first. Built from scratch. Scaled with intent.
+Languages & Frameworks
 
-### ⭐ Languages & Frameworks  
-- **TypeScript & Node.js** – My go-to for building robust APIs, backends, and full-stack apps  
-- **React** – For expressive and fast user interfaces  
-- **Python** – For automation, AI pipelines, and computational logic (including RhinoCommon integrations in urban design)  
-- **SQL/PostgreSQL** – For structured data modeling and performance-tuned queries  
+- Python – LLM pipelines, automation logic, and rendering workflows
+- TypeScript & Node.js – Robust APIs, Express backends, and typed integrations
+- React & Tailwind – Dynamic UI, narration sync, and editing interfaces
+- PostgreSQL – Schema design and relational data at scale
 
-### ⭐ Tools & Platforms  
-- **Vite, Express, Swagger** – For fast, typed, and well-documented APIs  
-- **Supabase, pgAdmin** – PostgreSQL-first backend stacks  
-- **VSCode, Git, Ubuntu, Bash** – Daily workflow stack  
-- **LangChain, OpenAI, TTS APIs** – For building intelligent, automated content pipelines  
+Tools & Platforms
 
+- Docker – Containerized deployments for isolated, reproducible environments
+- OpenAI API, Pydantic, Zod – AI generation with structured validation
+- Playwright & FFmpeg – Slide rendering, media export, and TTS sync
+- Express, Gulp – Custom backends for modular asset processing
+- Git, Ubuntu, VSCode – Efficient, repeatable developer workflows
+    
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
@@ -59,6 +59,8 @@ I work end-to-end across the stack — from front-end interfaces to backend APIs
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/>  
 </p>
+
+---
 
 <picture>
   <source
