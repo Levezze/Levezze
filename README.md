@@ -1,7 +1,8 @@
 # Lev Zhitnik
 
 Full Stack & AI Engineer | Builder’s Mentality | Ex-Tech Lead @ Urban Design AI Startup
-📍 NYC | 🤝 Open to Work | 🌐 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/)
+
+📍NYC | 🤝 Open to Work | 🌐 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/)
 
 <picture>
   <source
