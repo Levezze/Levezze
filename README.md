@@ -27,7 +27,7 @@ I'm currently seeking a full-stack engineering role where I can contribute to a 
 | Next.js | REST APIs | RAG | Claude Code |
 | Jotai | Flask | Pydantic | Git & GitHub |
 | Redux Toolkit | Express.js | Pandas | Swagger |
-| Tailwind CSS| PostgreSQL | | FFmpeg |
+| Tailwind CSS| PostgreSQL | Agentic Workflows | FFmpeg |
 | Playwright | MongoDB | | |
 | | Redis | | |
 
