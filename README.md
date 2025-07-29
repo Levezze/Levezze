@@ -23,14 +23,13 @@ I'm currently seeking a full-stack engineering role where I can contribute to a 
 | Frontend | Backend | AI / Data Science | DevOps & Tools |
 | :--- | :--- | :--- | :--- |
 | TypeScript | Python | LLM APIs | Docker |
-| React | Node.js | LangChain | AWS S3 / Cloudflare R2 |
-| Next.js | REST APIs | RAG | Claude Code |
+| React | Node.js | Agentic Workflows | AWS S3 / Cloudflare R2 |
+| Next.js | REST APIs | LangChain | Claude Code |
 | Jotai | Flask | Pydantic | Git & GitHub |
-| Redux Toolkit | Express.js | Pandas | Swagger |
-| Tailwind CSS| PostgreSQL | Agentic Workflows | FFmpeg |
-| Playwright | MongoDB | | |
+| Redux Toolkit | Express.js | Zod | Swagger |
+| Tailwind CSS| PostgreSQL | Pandas | FFmpeg |
+| Playwright | MongoDB | RAG | |
 | | Redis | | |
-
 
 <picture>
   <source
