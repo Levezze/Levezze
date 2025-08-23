@@ -6,7 +6,7 @@
 
 I'm a full-stack engineer specializing in building production-grade applications and AI-driven systems. My background in architecture and urban design gives me a unique perspective on systems thinking, allowing me to translate complex requirements into clean, scalable, and human-centered software. I thrive on building things that solve real problems, from initial prototype to robust, end-to-end platforms.
 
-I'm currently seeking a full-stack engineering role where I can contribute to a collaborative team, tackle challenging technical problems, and continue to grow as an engineer.
+I'm currently seeking a full-stack & AI engineering role where I can contribute to a collaborative team, tackle challenging technical problems, and continue to grow as an engineer.
 
 ---
 
@@ -24,12 +24,12 @@ I'm currently seeking a full-stack engineering role where I can contribute to a 
 | :--- | :--- | :--- | :--- |
 | TypeScript | Python | LLM APIs | Docker |
 | React | Node.js | Agentic Workflows | AWS S3 / Cloudflare R2 |
-| Next.js | REST APIs | LangChain | Claude Code |
+| Next.js | REST APIs | OpenAI SDK | Claude Code |
 | Jotai | Flask | Pydantic | Git & GitHub |
 | Redux Toolkit | Express.js | Zod | Swagger |
 | Tailwind CSS| PostgreSQL | Pandas | FFmpeg |
 | Playwright | MongoDB | RAG | |
-| | Redis | | |
+| | Redis | CrewAI | |
 
 <picture>
   <source
