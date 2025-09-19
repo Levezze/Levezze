@@ -2,7 +2,7 @@
 
 ### Full-Stack & AI Engineer | Systems Architect
 
-📍 Brooklyn, NY | 🔗 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/) | 📧 contact@levezze.com
+📍 Brooklyn, NY | [Portfolio > levezze.com](https://levezze.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/) | 📧 contact@levezze.com
 
 I'm a full-stack engineer specializing in building production-grade applications and AI-driven systems. My background in architecture and urban design gives me a unique perspective on systems thinking, allowing me to translate complex requirements into clean, scalable, and human-centered software. I thrive on building things that solve real problems, from initial prototype to robust, end-to-end platforms.
 
