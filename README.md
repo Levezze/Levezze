@@ -4,9 +4,7 @@
 
 📍 Brooklyn, NY | [Portfolio > levezze.com](https://levezze.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lev-zhitnik/) | 📧 contact@levezze.com
 
-I'm a full-stack engineer specializing in building production-grade applications and AI-driven systems. My background in architecture and urban design gives me a unique perspective on systems thinking, allowing me to translate complex requirements into clean, scalable, and human-centered software. I thrive on building things that solve real problems, from initial prototype to robust, end-to-end platforms.
-
-I'm currently seeking a full-stack & AI engineering role where I can contribute to a collaborative team, tackle challenging technical problems, and continue to grow as an engineer.
+I'm a full-stack engineer specializing in building production-grade applications and AI-driven systems. My background in architecture, urban design, and computational design gives me a unique perspective on systems thinking, allowing me to translate complex requirements into clean, scalable, and human-centered software. I thrive on building things that solve real problems, from initial prototype to robust, end-to-end platforms.
 
 ---
 
